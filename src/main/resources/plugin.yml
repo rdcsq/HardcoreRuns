@@ -1,0 +1,7 @@
+name: HardcoreRuns
+version: 1.0.0
+main: com.rdcsq.hardcoreruns.HardcoreRunsPlugin
+author: rdcsq
+api-version: '26.2'
+depend:
+  - Multiverse-Core
